@@ -1,0 +1,4 @@
+---
+# vars file for apache_setup
+package_name: httpd
+root_dir: /var/www/html

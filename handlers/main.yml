@@ -1,0 +1,6 @@
+---
+# handlers file for apache_setup
+- name: reload_webserver
+  service:
+    name: "{{ package_name }}"
+    state: reloaded

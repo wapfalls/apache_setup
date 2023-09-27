@@ -1,0 +1,3 @@
+This role will install Apache webserver on target machine(s) and setup an index.html file under webserver root directory.
+
+You can adjust the variables under vars/main.yml if needed.
